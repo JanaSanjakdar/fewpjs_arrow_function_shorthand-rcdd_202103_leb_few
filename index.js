@@ -1,6 +1,6 @@
 let divide = function () {
   return 2000/100
 }
-let square = number => number * number
+let square = numb => numb * numb
 
-let add = (param1, param2) => param1 + param2
+let add = (nb1, nb2) => nb1 + nb2
