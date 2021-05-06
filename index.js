@@ -1,3 +1,3 @@
-let divide = (a=2000,b=100) => a;
+let divide = (a=2000,b=100) => a
 let square = x => x * x
-let add (a,b) => a+b;
+let add (a,b) => a+b
